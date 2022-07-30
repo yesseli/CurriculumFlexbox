@@ -1,0 +1,48 @@
+header{
+    display:flex;
+    justify-content:center;
+    background-color: rgba(244, 109, 224, 0.868);
+}
+
+nav{
+    display:flex;
+    justify-content:center;
+}
+
+#contenedor{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+#datos{
+    width: 50%;
+    background-color: rgba(249, 220, 238, 0.758);
+}
+#experiencia{
+    width: 50%;
+    background-color: rgba(229, 163, 204, 0.758);
+}
+
+#perfilPro{ 
+   background-color: rgba(174, 105, 148, 0.758);
+}
+#titulo{
+    display:flex;;
+    justify-content:center;
+}
+#parrafo{
+    display:flex;;
+    justify-content:center;
+}
+
+.educacion{
+        display: flex;
+        justify-content:center;
+        background-color: rgba(229, 163, 204, 0.758);
+    }
+
+.final{
+        display:flex;
+        justify-content:center;
+        background-color: rgba(174, 105, 148, 0.758);
+    }
